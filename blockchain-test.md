@@ -1,0 +1,24 @@
+# Blockchain testing
+- Dapplicatoin distribute test
+- Shift Left Testing
+  - Agile DevOps
+- API testing
+  - Address 필요:어플리케이션과 blcockchain ecosystem간 연동테스트를 위한 주소
+  - transaction API testing
+  - functional testing: use case, business process testing
+  - performance testing
+    - 성능 병목 식별, 대량거래 처리 성능, 지불처리 시스템을 대체하는 대량 거래 처리 가능, 응답성능 테스트
+- Blockchain application test
+  - 다른 응용 서비스 테스트와 비슷
+  - performance testing
+  - security testing
+  - functional testing
+- Considering tester
+  - block size
+    - 100byte 미만, 비트코인 1MB 고정
+    - 최대 블록사이즈 초과시 어떻게 되는가?
+    - 여러 트랜잭션을 하나의 블록에 할당할 수 있는가?
+    - 블록처리 과정은 어떻게 되는가?
+  - chain size
+  - data transfer
+  - adding block
