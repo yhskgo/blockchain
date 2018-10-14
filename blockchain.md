@@ -6,7 +6,7 @@
 - 비트코인 네트워크는 오직 비트코인을 보내고 받기 위해 사용, 전 세계 어디서나 빠르게 송금 수령 가능
 - 이더리움은 DApp을 실행할 수 있는 탈중앙화된 플랫폼
 - Hyperledger는 승인이 필요한 DApp 개발 기술이 주요, Hyperledger fabric은 Hyperledger를 구현한 것
-  - fabric: 승인이 필요한 DApp을 실행할 수 이쓴ㄴ 승인된 탈중앙화된 
+  - fabric: 승인이 필요한 DApp을 실행할 수 있는 승인된 탈중앙화된 
 
 - DApp 이해
 - 이더리움 동작 방식 이해
