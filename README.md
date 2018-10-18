@@ -1,4 +1,4 @@
-# blockchain project consulting
+# blockchain project
 - Utility Token
   - 거래소 wallet <--> 교환가능
   - Node 제공
