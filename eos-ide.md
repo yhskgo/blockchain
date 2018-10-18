@@ -17,6 +17,7 @@
       - binaryen
       - magic_get
     - libraries
-      - ...
-
-![vs-eos-ide](https://user-images.githubusercontent.com/18479250/47142091-1a069d00-d2fd-11e8-983e-e44736f337d1.jpg)
+ - You can use this project(https://github.com/infiniteXLabs/default-template), easily consist Visual Studio Code IDE EOS smart contract development
+ - My VS code IDE for EOS smart contract:
+ 
+ ![vs-eos-ide](https://user-images.githubusercontent.com/18479250/47142091-1a069d00-d2fd-11e8-983e-e44736f337d1.jpg)
